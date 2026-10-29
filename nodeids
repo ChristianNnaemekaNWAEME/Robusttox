@@ -1,0 +1,7 @@
+[
+  "tests/test_robusttox.py::test_c_steps_do_not_increase_objective",
+  "tests/test_robusttox.py::test_methods_recover_support_on_clean_data",
+  "tests/test_robusttox.py::test_scaffold_split_disjoint_and_complete",
+  "tests/test_robusttox.py::test_stabsel_never_empty",
+  "tests/test_robusttox.py::test_stratified_trim_keeps_both_classes"
+]

@@ -1,0 +1,8 @@
+[project]
+name = "robusttox"
+version = "0.1.0"
+description = "Contamination-robust, interpretable toxicity prediction: library and benchmark"
+requires-python = ">=3.9"
+dependencies = ["numpy", "pandas", "scikit-learn", "scipy", "rdkit", "matplotlib"]
+[tool.setuptools]
+packages = ["robusttox"]
